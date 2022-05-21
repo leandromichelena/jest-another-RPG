@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "role playing game created with node.js for the coding bootcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leandromichelena/jest-another-RPG.git"
+  },
+  "author": "leandromichelena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leandromichelena/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/leandromichelena/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
